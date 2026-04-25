@@ -9,7 +9,10 @@
     <Authors>Bernardo</Authors>
     <Description>Consulta información y jugadores conectados de servidores Multi Theft Auto (MTA) vía UDP.</Description>
     <PackageTags>mta;multi-theft-auto;udp;query;game-server</PackageTags>
+    <PackageProjectUrl>https://github.com/Bernard2806/MtaServerQuery</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Bernard2806/MtaServerQuery</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
