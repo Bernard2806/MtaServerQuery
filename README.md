@@ -1,6 +1,9 @@
-# MtaServerQuery
+<img align="right" width="100" height="100" src="https://github.com/user-attachments/assets/00fbb6b8-e29e-409c-aac8-67bdece3f6aa">
 
-Librería .NET para consultar datos de servidores **Multi Theft Auto (MTA)** usando UDP.
+### MtaServerQuery
+###### Librería .NET para consultar datos de servidores **Multi Theft Auto (MTA)** usando UDP.
+
+---
 
 ## Instalación
 
