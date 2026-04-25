@@ -4,12 +4,18 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <PackageId>MtaServerQuery</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Bernardo</Authors>
+    <Description>Consulta información y jugadores conectados de servidores Multi Theft Auto (MTA) vía UDP.</Description>
+    <PackageTags>mta;multi-theft-auto;udp;query;game-server</PackageTags>
+    <RepositoryUrl>https://github.com/Bernard2806/MtaServerQuery</RepositoryUrl>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Client\" />
-    <Folder Include="Models\" />
-    <Folder Include="Exceptions\" />
+    <None Include="README.md" Pack="true" PackagePath="\" />
   </ItemGroup>
 
 </Project>
